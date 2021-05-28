@@ -1,0 +1,16 @@
+D:\Proyectos\CrudXamarin\CrudXamarin2\CrudXamarin2\CrudXamarin2\bin\Debug\netstandard2.0\CrudXamarin2.deps.json
+D:\Proyectos\CrudXamarin\CrudXamarin2\CrudXamarin2\CrudXamarin2\bin\Debug\netstandard2.0\CrudXamarin2.dll
+D:\Proyectos\CrudXamarin\CrudXamarin2\CrudXamarin2\CrudXamarin2\bin\Debug\netstandard2.0\ref\CrudXamarin2.dll
+D:\Proyectos\CrudXamarin\CrudXamarin2\CrudXamarin2\CrudXamarin2\bin\Debug\netstandard2.0\CrudXamarin2.pdb
+D:\Proyectos\CrudXamarin\CrudXamarin2\CrudXamarin2\CrudXamarin2\obj\Debug\netstandard2.0\CrudXamarin2.csproj.AssemblyReference.cache
+D:\Proyectos\CrudXamarin\CrudXamarin2\CrudXamarin2\CrudXamarin2\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Proyectos\CrudXamarin\CrudXamarin2\CrudXamarin2\CrudXamarin2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Proyectos\CrudXamarin\CrudXamarin2\CrudXamarin2\CrudXamarin2\obj\Debug\netstandard2.0\View\DetallePage.xaml.g.cs
+D:\Proyectos\CrudXamarin\CrudXamarin2\CrudXamarin2\CrudXamarin2\obj\Debug\netstandard2.0\View\TarjetaCreditoPage.xaml.g.cs
+D:\Proyectos\CrudXamarin\CrudXamarin2\CrudXamarin2\CrudXamarin2\obj\Debug\netstandard2.0\CrudXamarin2.AssemblyInfoInputs.cache
+D:\Proyectos\CrudXamarin\CrudXamarin2\CrudXamarin2\CrudXamarin2\obj\Debug\netstandard2.0\CrudXamarin2.AssemblyInfo.cs
+D:\Proyectos\CrudXamarin\CrudXamarin2\CrudXamarin2\CrudXamarin2\obj\Debug\netstandard2.0\CrudXamarin2.csproj.CoreCompileInputs.cache
+D:\Proyectos\CrudXamarin\CrudXamarin2\CrudXamarin2\CrudXamarin2\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Proyectos\CrudXamarin\CrudXamarin2\CrudXamarin2\CrudXamarin2\obj\Debug\netstandard2.0\CrudXamarin2.dll
+D:\Proyectos\CrudXamarin\CrudXamarin2\CrudXamarin2\CrudXamarin2\obj\Debug\netstandard2.0\ref\CrudXamarin2.dll
+D:\Proyectos\CrudXamarin\CrudXamarin2\CrudXamarin2\CrudXamarin2\obj\Debug\netstandard2.0\CrudXamarin2.pdb

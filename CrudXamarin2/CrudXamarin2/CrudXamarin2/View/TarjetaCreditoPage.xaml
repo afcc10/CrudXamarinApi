@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CrudXamarin2.View.TarjetaCreditoPage">
+    <ScrollView>
+        <StackLayout>
+            <Label Text="{Binding id}"></Label>
+            <Label Text="Titular"></Label>
+            <Entry Text="{Binding titular}"></Entry>
+            <Label Text="Numero de tarjeta"></Label>
+            <Entry Text="{Binding numeroTarjeta}" Placeholder="Numero de la tarjeta" MaxLength="16" Keyboard="Numeric"></Entry>
+            <Label Text="Fecha Expiracion"></Label>
+            <Entry Text="{Binding fechaExpiracion}" Placeholder="MM/YY" MaxLength="5"></Entry>
+            <Label Text="CVV"></Label>
+            <Entry Text="{Binding cvv}" Placeholder="CVV" MaxLength="3" Keyboard="Numeric"></Entry>
+            <Button Text="Guardar" Command="{Binding GuardarCommand}"></Button>
+            <Button Text="Modificar" Command="{Binding ModificarCommand}"></Button>
+            <Button Text="Eliminar" Command="{Binding EliminarCommand}"></Button>
+            <Button Text="Limpiar" Command="{Binding LimpiarCommand}"></Button>
+            <ActivityIndicator IsRunning="{Binding IsBusy}" IsVisible="{Binding IsBusy}"></ActivityIndicator>
+            <ListView x:Name="LstTarjetas" ItemsSource="{Binding tarjetasCredito}">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <TextCell Text="{Binding titular}" Detail="{Binding numeroTarjeta}"></TextCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

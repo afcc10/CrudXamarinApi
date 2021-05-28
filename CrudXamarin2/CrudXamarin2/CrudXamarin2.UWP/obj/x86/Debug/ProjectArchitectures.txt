@@ -1,0 +1,1 @@
+D:\Proyectos\CrudXamarin\CrudXamarin2\CrudXamarin2\CrudXamarin2.UWP\CrudXamarin2.UWP.csproj;x86
